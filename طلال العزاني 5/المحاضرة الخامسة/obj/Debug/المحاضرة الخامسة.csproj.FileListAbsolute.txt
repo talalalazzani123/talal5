@@ -1,0 +1,13 @@
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة الخامسة.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة الخامسة.csproj.SuggestedBindingRedirects.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة_الخامسة.Form1.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة_الخامسة.Properties.Resources.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة الخامسة.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة الخامسة.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\bin\Debug\المحاضرة الخامسة.exe.config
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\bin\Debug\المحاضرة الخامسة.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\bin\Debug\المحاضرة الخامسة.pdb
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة الخامسة.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة الخامسة.pdb
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة_الخامسة.Form2.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة_الخامسة.Form3.resources
